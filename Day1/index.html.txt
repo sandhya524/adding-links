@@ -1,0 +1,10 @@
+<!DOCTYPE /html>
+<html>
+<head>
+<title>Practice1</title>
+</head>
+<body>
+<h1>HI</h1>
+<p>This is Sandhya, i am from hyd </p>
+</body>
+</html>
